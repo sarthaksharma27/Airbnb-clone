@@ -18,7 +18,59 @@ This project is an Airbnb clone developed using the MERN (MongoDB, Express.js, N
 - **Frontend:** EJS templating engine
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Other Notable Libraries and Tools:** List the significant NPM packages and libraries used, such as (mention the ones that are particularly notable).
+- **Other Notable Libraries and Tools:**
+
+1. **[@mapbox/mapbox-sdk](https://www.npmjs.com/package/@mapbox/mapbox-sdk)**
+   - Version: ^0.15.3
+
+2. **[cloudinary](https://www.npmjs.com/package/cloudinary)**
+   - Version: ^1.41.0
+
+3. **[connect-flash](https://www.npmjs.com/package/connect-flash)**
+   - Version: ^0.1.1
+
+4. **[connect-mongo](https://www.npmjs.com/package/connect-mongo)**
+   - Version: ^5.1.0
+
+5. **[dotenv](https://www.npmjs.com/package/dotenv)**
+   - Version: ^16.3.1
+
+6. **[ejs](https://www.npmjs.com/package/ejs)**
+   - Version: ^3.1.9
+
+7. **[ejs-mate](https://www.npmjs.com/package/ejs-mate)**
+   - Version: ^4.0.0
+
+8. **[express](https://www.npmjs.com/package/express)**
+   - Version: ^4.18.2
+
+9. **[express-session](https://www.npmjs.com/package/express-session)**
+   - Version: ^1.17.3
+
+10. **[joi](https://www.npmjs.com/package/joi)**
+    - Version: ^17.10.2
+
+11. **[method-override](https://www.npmjs.com/package/method-override)**
+    - Version: ^3.0.0
+
+12. **[mongoose](https://www.npmjs.com/package/mongoose)**
+    - Version: ^7.5.2
+
+13. **[multer](https://www.npmjs.com/package/multer)**
+    - Version: ^1.4.5-lts.1
+
+14. **[multer-storage-cloudinary](https://www.npmjs.com/package/multer-storage-cloudinary)**
+    - Version: ^4.0.0
+
+15. **[passport](https://www.npmjs.com/package/passport)**
+    - Version: ^0.6.0
+
+16. **[passport-local](https://www.npmjs.com/package/passport-local)**
+    - Version: ^1.0.0
+
+17. **[passport-local-mongoose](https://www.npmjs.com/package/passport-local-mongoose)**
+    - Version: ^8.0.0
+
 
 ## Installation
 
@@ -37,7 +89,7 @@ This project is an Airbnb clone developed using the MERN (MongoDB, Express.js, N
 
 4. Run the application.
    ```bash
-   npm start
+   node app.js
    ```
 ## How to Contribute
 
