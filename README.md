@@ -1,6 +1,7 @@
 # Airbnb Clone with MERN Stack Using EJS
 
-![F9WBlWhWYAAZGi4](https://github.com/sarthaksharma27/Airbnb-clone/assets/130299888/7e367716-811c-4bd9-b616-2c0e437318c4)
+![F9WBlWhWYAAZGi4](https://github.com/sarthaksharma27/Airbnb-clone/assets/130299888/a794b576-c90b-4020-9530-fa03075c1b83)
+
 
 
 This project is an Airbnb clone developed using the MERN (MongoDB, Express.js, Node.js) stack, but with EJS (Embedded JavaScript) as the templating language. The application utilizes various NPM packages and libraries to provide functionality similar to Airbnb, allowing users to perform CRUD operations, add ratings, and more.
