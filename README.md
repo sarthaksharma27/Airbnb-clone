@@ -92,26 +92,3 @@ This project is an Airbnb clone developed using the MERN (MongoDB, Express.js, N
    ```bash
    node app.js
    ```
-## How to Contribute
-
-If you'd like to contribute to this project, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature.
-3. Make your changes.
-4. Test your changes.
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgements
-
-Mention any acknowledgements, inspirations, or credits to individuals or projects that helped or inspired this project.
-
----
-
-Remember to replace placeholders like `yourusername` and `screenshot1.png` with your actual information and file paths. Additionally, add detailed information about the specific NPM packages and libraries you used, and any special configurations needed for the project to run successfully.
-
-Feel free to add more sections or modify this template to better suit your project's structure and details.
